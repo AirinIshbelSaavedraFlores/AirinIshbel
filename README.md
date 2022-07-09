@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, i am Airin Ishbel</h1>
 <h3 align="center">data science student  and I also manage the frontend part I am from Mexico</h3>
 
-- 🌱 Yo' actualmente estoy aprendiendo **analista de datos por google**
+- 🌱 I'm currently learning **data analyst by google**
 
-- 💬 Pregúntame sobre **Frontend y ciencia de datos.**
+- 💬 Ask me about **Frontend and data science.**
 
-- 📫 Cómo contactarme **airinishbelsavflor@outlook.com**
+- 📫 How to contact me **airinishbelsavflor@outlook.com**
 
-- 📄 Conoce mis experiencias [https: //drive.google.com/drive/folders/1IPeywQsVYEkcyPquFXWyWzyDPSD4Vcfh?usp=sharing](https://drive.google.com/drive/folders/1IPeywQsVYEkcyPquFXWyWzyDPSD4Vcfh?usp=sharing)
+- 📄 know my experiences [https: //drive.google.com/drive/folders/1IPeywQsVYEkcyPquFXWyWzyDPSD4Vcfh?usp=sharing](https://drive.google.com/drive/folders/1IPeywQsVYEkcyPquFXWyWzyDPSD4Vcfh?usp=sharing)
 
 <h3 align="left">Conéctate conmigo :</h3>
 <p align="izquierda">
