@@ -1,10 +1,10 @@
 # Hi People!
-<h1 align="center">Hola 👋, soy Airin Ishbel</h1>
-<h3 align="center">Estudiante de ciencia de datos y también manejo la parte frontend soy de México</h3>
+<h1 align="center">Hi 👋, i am Airin Ishbel</h1>
+<h3 align="center">data science student  and I also manage the frontend part I am from Mexico</h3>
 
 - 🌱 Yo' actualmente estoy aprendiendo **analista de datos por google**
 
-- 💬 Pregúntame sobre **en frente y ciencia de datos.**
+- 💬 Pregúntame sobre **Frontend y ciencia de datos.**
 
 - 📫 Cómo contactarme **airinishbelsavflor@outlook.com**
 
