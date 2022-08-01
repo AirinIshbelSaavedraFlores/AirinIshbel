@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **data analyst by google**
 
-- 💬 Ask me about **Frontend and data science.**
+- 💬 Ask me about ** Data analyst and front-end .**
 
 - 📫 How to contact me **airinishbelsavflor@outlook.com**
 
